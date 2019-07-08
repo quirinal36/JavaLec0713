@@ -1,26 +1,26 @@
 package lee.hyoung.gu;
 
-public class ÇĞ»ı {
-	int ÀÚ¸®¹øÈ£;
-	String ¼º;
-	String ÀüÈ­¹øÈ£;
+public class í•™ìƒ {
+	int ìë¦¬ë²ˆí˜¸;
+	String ì„±;
+	String ì „í™”ë²ˆí˜¸;
 	
-	public int getÀÚ¸®¹øÈ£() {
-		return ÀÚ¸®¹øÈ£;
+	public int getìë¦¬ë²ˆí˜¸() {
+		return ìë¦¬ë²ˆí˜¸;
 	}
-	public void setÀÚ¸®¹øÈ£(int ÀÚ¸®¹øÈ£) {
-		this.ÀÚ¸®¹øÈ£ = ÀÚ¸®¹øÈ£;
+	public void setìë¦¬ë²ˆí˜¸(int ìë¦¬ë²ˆí˜¸) {
+		this.ìë¦¬ë²ˆí˜¸ = ìë¦¬ë²ˆí˜¸;
 	}
-	public String get¼º() {
-		return ¼º;
+	public String getì„±() {
+		return ì„±;
 	}
-	public void set¼º(String ¼º) {
-		this.¼º = ¼º;
+	public void setì„±(String ì„±) {
+		this.ì„± = ì„±;
 	}
-	public String getÀüÈ­¹øÈ£() {
-		return ÀüÈ­¹øÈ£;
+	public String getì „í™”ë²ˆí˜¸() {
+		return ì „í™”ë²ˆí˜¸;
 	}
-	public void setÀüÈ­¹øÈ£(String ÀüÈ­¹øÈ£) {
-		this.ÀüÈ­¹øÈ£ = ÀüÈ­¹øÈ£;
+	public void setì „í™”ë²ˆí˜¸(String ì „í™”ë²ˆí˜¸) {
+		this.ì „í™”ë²ˆí˜¸ = ì „í™”ë²ˆí˜¸;
 	}
 }
